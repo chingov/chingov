@@ -3,4 +3,4 @@
 ### Hi, I'm Chingow 👋
 >I am a java developer from Wuhan, China.
 
-🔗 https://chingow.cn/
+🔗 https://chingow.cn
